@@ -23,7 +23,7 @@ import {
           fontSize="4xl"
           pb="8"
         >
-          Formulário
+          LOGIN
         </Center>
         <Flex
           align="center"
